@@ -1,0 +1,74 @@
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\bin\Debug\Wender Vate.exe.config
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\bin\Debug\Wender Vate.exe
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\bin\Debug\Wender Vate.pdb
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\bin\Debug\MaterialDesignColors.dll
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\bin\Debug\MySqlConnector.dll
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\bin\Debug\System.Buffers.dll
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\bin\Debug\System.Memory.dll
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\bin\Debug\MySqlConnector.xml
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\bin\Debug\System.Buffers.xml
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\bin\Debug\System.Memory.xml
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\obj\Debug\Wender Vate.csproj.AssemblyReference.cache
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\obj\Debug\Wender Vate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\obj\Debug\SplashScreen.baml
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\obj\Debug\MainWindow.g.cs
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\obj\Debug\SplashScreen.g.cs
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\obj\Debug\App.g.cs
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\obj\Debug\Wender Vate_MarkupCompile.cache
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\obj\Debug\Wender Vate_MarkupCompile.lref
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\obj\Debug\App.baml
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\obj\Debug\MainWindow.baml
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\obj\Debug\Wender Vate.g.resources
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\obj\Debug\WPF_login.Properties.Resources.resources
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\obj\Debug\Wender Vate.csproj.GenerateResource.cache
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\obj\Debug\Wender Vate.csproj.CoreCompileInputs.cache
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\obj\Debug\Wender Vate.csproj.CopyComplete
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\obj\Debug\Wender Vate.exe
+C:\Users\Maurice\Downloads\Create a Modern Splash Screen & Login in WPF\WPF_login\Wender Vate\obj\Debug\Wender Vate.pdb
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\bin\Debug\Wender Vate.exe.config
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\bin\Debug\Wender Vate.exe
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\bin\Debug\Wender Vate.pdb
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\bin\Debug\MaterialDesignColors.dll
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\bin\Debug\MySqlConnector.dll
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\bin\Debug\System.Buffers.dll
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\bin\Debug\System.Memory.dll
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\bin\Debug\MySqlConnector.xml
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\bin\Debug\System.Buffers.xml
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\bin\Debug\System.Memory.xml
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\obj\Debug\Wender Vate.csproj.AssemblyReference.cache
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\obj\Debug\Wender Vate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\obj\Debug\SplashScreen.baml
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\obj\Debug\MainWindow.g.cs
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\obj\Debug\SplashScreen.g.cs
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\obj\Debug\App.g.cs
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\obj\Debug\Wender Vate_MarkupCompile.cache
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\obj\Debug\Wender Vate_MarkupCompile.lref
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\obj\Debug\App.baml
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\obj\Debug\MainWindow.baml
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\obj\Debug\Wender Vate.g.resources
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\obj\Debug\WPF_login.Properties.Resources.resources
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\obj\Debug\Wender Vate.csproj.GenerateResource.cache
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\obj\Debug\Wender Vate.csproj.CoreCompileInputs.cache
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\obj\Debug\Wender Vate.csproj.CopyComplete
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\obj\Debug\Wender Vate.exe
+C:\Users\Maurice\Downloads\Wender Vate\Wender Vate\Wender Vate\obj\Debug\Wender Vate.pdb
