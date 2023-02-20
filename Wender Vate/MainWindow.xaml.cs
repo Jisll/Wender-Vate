@@ -1,4 +1,4 @@
-﻿using MaterialDesignThemes.Wpf;
+using MaterialDesignThemes.Wpf;
 using MySqlConnector;
 using Microsoft.VisualBasic.Devices;
 using System;
@@ -52,7 +52,8 @@ namespace WPF_login
         private async void button_Click(object sender, RoutedEventArgs e)
         {
             string currentUser = Environment.UserName;
-            string engineIniPath = $@"C:\Users\{currentUser}\AppData\Local\Hogwarts Legacy\Saved\Config\WindowsNoEditor\Engine.ini";
+            string appDataPath = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
+            string engineIniPath = $@"{appDataPath}\Hogwarts Legacy\Saved\Config\WindowsNoEditor\Engine.ini";
 
             try
             {
@@ -291,11 +292,6 @@ r.TranslucencyVolumeBlur=0
 r.LensFlareQuality=0
 r.SceneColorFormat=3
 r.SceneColorFringeQuality=0
-r.ShadowQuality=0
-r.Shadow.CSM.MaxCascades=1
-r.Shadow.RadiusThreshold=0.1
-r.Shadow.MaxResolution=256
-r.Shadow.TexelsPerPixel=2
 r.DistanceFieldAO=0
 r.DistanceFieldGI=0
 r.ScreenPercentage=75
@@ -347,7 +343,8 @@ AllowAsyncRenderThreadUpdatesEditor=1";
         private async void uninstall_Click(object sender, RoutedEventArgs e)
         {
             string currentUser = Environment.UserName;
-            string engineIniPath = $@"C:\Users\{currentUser}\AppData\Local\Hogwarts Legacy\Saved\Config\WindowsNoEditor\Engine.ini";
+            string appDataPath = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
+            string engineIniPath = $@"{appDataPath}\Hogwarts Legacy\Saved\Config\WindowsNoEditor\Engine.ini";
 
             try
             {
