@@ -1,0 +1,73 @@
+{
+    "Classes": [
+        {
+            "Name": "ActorManager",
+            "Superclass": "<<<ROOT>>>",
+            "Members": [
+                {
+                    "MemberType": "Function",
+                    "Name": "getactors",
+                    "Parameters": [],
+                    "ReturnType": {
+                        "Category": "Collection",
+                        "Name": "table<number, Actor>"
+                    },
+                    "Description": "Returns a list of actors that you are able to execute code inside of.",
+                    "Security": "None",
+                    "ThreadSafety": "Unsafe"
+                },
+                {
+                    "MemberType": "Function",
+                    "Name": "run_on_actor",
+                    "Parameters": [
+                        {
+                            "Name": "actor",
+                            "Type": {
+                                "Category": "Class",
+                                "Name": "Actor"
+                            }
+                        },
+                        {
+                            "Name": "script",
+                            "Type": {
+                                "Category": "Primitive",
+                                "Name": "string"
+                            }
+                        },
+                        {
+                            "Name": "channel_id",
+                            "Type": {
+                                "Category": "Primitive",
+                                "Name": "string"
+                            },
+                            "Optional": true
+                        }
+                    ],
+                    "ReturnType": {
+                        "Category": "Primitive",
+                        "Name": "null"
+                    },
+                    "Description": "Runs the code specified inside of that actor's global state.",
+                    "Security": "None",
+                    "ThreadSafety": "Unsafe"
+                },
+                {
+                    "MemberType": "Function",
+                    "Name": "create_comm_channel",
+                    "Parameters": [],
+                    "ReturnType": {
+                        "Category": "Group",
+                        "Name": "string, BindableEvent"
+                    },
+                    "Description": "Returns a communication id, and a bindable event that can be used for transferring data between the actor global state and your state.",
+                    "Security": "None",
+                    "ThreadSafety": "Unsafe"
+                }
+            ],
+            "Tags": [
+                "NotCreatable",
+                "NotReplicated"
+            ]
+        }
+    ]
+}
